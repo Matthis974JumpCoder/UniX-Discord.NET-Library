@@ -1,1 +1,1 @@
-# Simplistic-Discord.net-Lybrary
+# Simplistic Discord.net Library
