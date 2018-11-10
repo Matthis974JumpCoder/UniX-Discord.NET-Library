@@ -1,5 +1,5 @@
 # UniX Discord.NET Library
-[![NuGet](https://img.shields.io/nuget/vpre/Discord.Net.svg?maxAge=2592000?style=plastic)](https://www.nuget.org/packages/Discord.Net)
+[![NuGet](https://img.shields.io/nuget/vpre/UniXDiscordDotNetLibrary.svg?maxAge=2592000?style=plastic)](https://www.nuget.org/packages/UniXDiscordDotNetLibrary)
 [![MyGet](https://img.shields.io/myget/discord-net/vpre/Discord.Net.svg)](https://www.myget.org/feed/Packages/discord-net) 
 
 An unofficial .NET Library for the Discord Client
