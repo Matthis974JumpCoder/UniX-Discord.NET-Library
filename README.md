@@ -2,11 +2,16 @@
 [![NuGet](https://img.shields.io/nuget/vpre/UniXDiscordDotNetLibrary.svg?maxAge=2592000?style=plastic)](https://www.nuget.org/packages/UniXDiscordDotNetLibrary)
 [![MyGet](https://img.shields.io/myget/unixdiscorddotnetlibrary/vpre/UniXDiscordDotNetLibrary.svg)](https://www.myget.org/feed/Packages/unixdiscorddotnetlibrary) 
 
-An unofficial .NET Library for the Discord Client
+An unofficial .NET Library for the [Discord Client](http://discordapp.com/)
 >
 
 ## Installation
-> Soon..
+
+#### NuGet
+Our stable builds available from NuGet through the Discord.Net metapackage:
+
+- [UniX Discord.NET](https://www.nuget.org/packages/UniXDiscordDotNetLibrary)
+``Install-Package UniXDiscordDotNetLibrary -Version 1.0.1``
 
 ## Compiling
 > In order to compile Discord.Net, you require the following:
