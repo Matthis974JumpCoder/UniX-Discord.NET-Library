@@ -11,6 +11,9 @@ An unofficial .NET Library for the [Discord Client](http://discordapp.com/)
 Our stable builds available from NuGet through the Discord.Net metapackage:
 
 - [UniX Discord.NET](https://www.nuget.org/packages/UniXDiscordDotNetLibrary)
+#### .NET Core Cli installation
+``dotnet add UniXDiscordDotNetLibrary --version 1.0.1``
+#### .NET Framework Cli installation
 ``Install-Package UniXDiscordDotNetLibrary -Version 1.0.1``
 
 ## Compiling
